@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.17.4
+  Changes:
+    - Fixed bug where Hydro Plant 4 and Salination Plant 3 were not unlockable when "Remove desalination for magnesium recipes" was enabled with the mod Extended Angels.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.3
+  Changes:
+    - Removed dependency on MadClown's Extended Minerals.
+    - Added forgotten change in changelog.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.2
+  Changes:
+    - Fixed mod failing to load when MadClown's Nuclear Extension wasn't present.
+    - The "Advanced uranium processing" recipe should be properly sorted now.
+    - "MadClown's crystals require acid" option removed as it has been fixed by MadClown's mods.

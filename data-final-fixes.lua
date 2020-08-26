@@ -1,0 +1,6 @@
+require 'prototypes.nuclear'
+require 'prototypes.angels-smelting-cleanup'
+require 'prototypes.science'
+require 'prototypes.clowns-refining'
+require 'prototypes.recipe-sorting'
+require 'prototypes.remove-ammo-recipes'
